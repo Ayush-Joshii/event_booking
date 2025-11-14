@@ -1,5 +1,6 @@
 Project Documentation Summary
-Project Title: Event Reservation System
+Project Title: Event Reservation System 
+https://ayush-joshii.github.io/event_booking/
 
 1. Issue Overview
 
